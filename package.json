@@ -1,8 +1,7 @@
 {
   "name": "ngui-select",
   "version": "1.0.0",
-  "description": "Angular sample select module",
-  "main": "core.js",
+  "description": "Angular select module",
   "scripts": {
     "start":"http-server ."
   },

@@ -1,10 +1,7 @@
 {
   "name": "ngui-select",
   "homepage": "https://github.com/PuujeU/ngui-select",
-  "authors": [
-  ],
-  "description": "Angular sample select module",
-  "main": "",
+  "description": "Angular select module",
   "license": "MIT",
   "ignore": [
     "node_modules",
