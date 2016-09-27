@@ -1,4 +1,4 @@
-## Angular sample select module
+## Angular select module
 
 - bower install
 
